@@ -1,4 +1,4 @@
-package threads;
+package threads.Runnable;
 
 public class RHilo implements Runnable{
 	

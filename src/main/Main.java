@@ -1,6 +1,6 @@
 package main;
 
-import threads.RHilo;
+import threads.Runnable.RHilo;
 
 public class Main {
 	
